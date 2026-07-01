@@ -1,0 +1,17 @@
+[package]
+name = "wind-profile"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.83"
+license = "MIT OR Apache-2.0"
+description = "Wind-profile vertical extrapolation for wind energy: power law, log law, shear exponent from two heights, and IEC 61400-12-1 air density and density-corrected wind speed."
+repository = "https://github.com/NewEarthTech/wind-profile"
+documentation = "https://docs.rs/wind-profile"
+readme = "README.md"
+keywords = ["wind", "energy", "meteorology", "turbine", "renewable"]
+categories = ["science", "mathematics"]
+
+[lib]
+path = "src/lib.rs"
+
+[dependencies]

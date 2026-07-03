@@ -1,5 +1,6 @@
 # wind-profile
 
+[![CI](https://github.com/NewEarthTech/wind-profile/actions/workflows/ci.yml/badge.svg)](https://github.com/NewEarthTech/wind-profile/actions/workflows/ci.yml)
 [![crates.io](https://img.shields.io/crates/v/wind-profile.svg)](https://crates.io/crates/wind-profile)
 [![docs.rs](https://docs.rs/wind-profile/badge.svg)](https://docs.rs/wind-profile)
 [![license](https://img.shields.io/crates/l/wind-profile.svg)](#license)
